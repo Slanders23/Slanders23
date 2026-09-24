@@ -4,6 +4,12 @@
 I'm a Computer Science student at University College Cork, currently in my third year.
 
 I'm interested in software development, cybersecurity, cloud infrastructure, and data systems. I enjoy building projects that combine programming with real-world problems.
+<h2>🌐 Connect with Me</h2>
+
+<section>
+<a href="www.linkedin.com/in/stephen-landers-051644337"><img src="./images/linkedin.png" alt=""/></a>
+<a href="124435384@umail.ucc.ie"><img src="./images/gmail.png" alt="" /></a>
+</section>
 
 🛠️ Technologies & Tools
 <h2>Languages</h2>
