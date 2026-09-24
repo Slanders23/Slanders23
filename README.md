@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Stephen
+## Hi there 👋, I'm Stephen
 
 I'm a Computer Science student at University College Cork, currently in my third year.
 
