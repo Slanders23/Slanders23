@@ -10,45 +10,14 @@ I'm interested in software development, cybersecurity, cloud infrastructure, and
 <a href="www.linkedin.com/in/stephen-landers-051644337"><img src="./images/linkedin.png" width="100" height="20"/></a>
 <a href="mailto:124435384@umail.ucc.ie"><img src="./images/gmail.png" width="100" height="20" /></a>
 </section>
-<section>
 
-<a href="https://www.linkedin.com/in/stephen-landers-051644337" target="_blank"
-   style="display: inline-flex; align-items: center;
-          padding: 10px 18px;
-          background-color: #24292e;
-          color: white;
-          text-decoration: none;
-          border-radius: 8px;
-          font-family: Arial, sans-serif;
-          font-weight: bold;">
-
-    <img src="./images/linkedin.png"
-         width="24"
-         height="24"
-         style="margin-right: 10px;">
-
-    LinkedIn
+<a href="https://www.linkedin.com/in/stephen-landers-051644337">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:124435384@umail.ucc.ie"
-   style="display: inline-flex; align-items: center;
-          padding: 10px 18px;
-          background-color: #24292e;
-          color: white;
-          text-decoration: none;
-          border-radius: 8px;
-          font-family: Arial, sans-serif;
-          font-weight: bold;">
-
-    <img src="./images/gmail.png"
-         width="24"
-         height="24"
-         style="margin-right: 10px;">
-
-    Mail
+<a href="mailto:124435384@umail.ucc.ie">
+  <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white">
 </a>
-
-</section>
 
 
 <h1>🛠️ Technologies & Tools</h1>
