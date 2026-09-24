@@ -11,19 +11,19 @@ I'm interested in software development, cybersecurity, cloud infrastructure, and
 <a href="mailto:124435384@umail.ucc.ie"><img src="./images/gmail.png" width="50" alt="" /></a>
 </section>
 
-🛠️ Technologies & Tools
+<h1>🛠️ Technologies & Tools</h1>
 <h2>👨‍💻 Languages
 </h2>
 <section>
-<img src="./images/java.png" width="50"> <img src="./images/python.png" width="50">
+<img src="./images/java.png" width="30"> <img src="./images/python.png" width="30">
 </section>
 <h2>🌐 Web</h2>
 <section>
-<img src="./images/html.png" width="50"> <img src="./images/css.png" width="50"> <img src="./images/flask.png" width="50">
+<img src="./images/html.png" width="30"> <img src="./images/css.png" width="30"> <img src="./images/flask.png" width="30">
 </section>
 <h2>🛢️ Databases</h2>
 <section>
-<img src="./images/sql.png" width="50"> <img src="./images/neo4j.png" width="50"> <img src="./images/mongodb.png" width="50">
+<img src="./images/sql.png" width="30"> <img src="./images/neo4j.png" width="30"> <img src="./images/mongodb.png" width="30">
 </section>
 <!--
 **Slanders23/Slanders23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
