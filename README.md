@@ -24,15 +24,15 @@ I'm interested in software development, cybersecurity, cloud infrastructure, and
 <h2>👨‍💻 Languages
 </h2>
 <section>
-<img src="./images/java.png" width="40"> <img src="./images/python.png" width="40">
+<img src="./images/java.png"  height="40" width="40"> <img src="./images/python.png" height="40" width="40">
 </section>
 <h2>🌐 Web</h2>
 <section>
-<img src="./images/html.png" width="40"> <img src="./images/css.png" width="40"> <img src="./images/flask.png" width="40">
+<img src="./images/html.png" height="40" width="40"> <img src="./images/css.png"  height="40" width="40"> <img src="./images/flask.png" height="40" width="40">
 </section>
 <h2>🛢️ Databases</h2>
 <section>
-<img src="./images/sql.png" width="40"> <img src="./images/neo4j.png" width="40"> <img src="./images/mongodb.png" width="40">
+<img src="./images/sql.png" height="40" width="40"> <img src="./images/neo4j.png" height="40" width="40"> <img src="./images/mongodb.png" height="40" width="40">
 </section>
 <!--
 **Slanders23/Slanders23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
