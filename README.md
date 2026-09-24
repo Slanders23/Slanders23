@@ -7,8 +7,7 @@ I'm interested in software development, cybersecurity, cloud infrastructure, and
 
 🛠️ Technologies & Tools
 <h2>Languages</h2>
-<img src="./images/java.png" width="50">
-<img src="./images/python.png" width="50">
+<img src="./images/java.png" width="50"> <img src="./images/python.png" width="50">
 
 <!--
 **Slanders23/Slanders23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
