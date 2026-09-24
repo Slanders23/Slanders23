@@ -34,7 +34,8 @@ I'm interested in software development, cybersecurity, cloud infrastructure, and
 <img src="./images/sql.png" height="40" width="40"> <img src="./images/neo4j.png" height="40" width="40"> <img src="./images/mongodb.png" height="40" width="40">
 </section>
 <h2>🧰 Tools & Platforms</h2>
-<img src="./images/vscode.png" height="40" width="40"> <img src="./images/aws.png" height="40" width="40"> <img src="./images/jupyter.png" height="40" width="40"> <img src="./images/jupyter.png" height="40" width="40"> <img src="./images/github.png" height="40" width="40">
+<section>
+<img src="./images/vscode.png" height="40" width="40"> <img src="./images/aws.png" height="40" width="40"> <img src="./images/jupyter.png" height="40" width="40"> <img src="./images/github.png" height="40" width="40"></section>
 <!--
 **Slanders23/Slanders23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
