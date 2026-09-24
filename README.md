@@ -7,23 +7,23 @@ I'm interested in software development, cybersecurity, cloud infrastructure, and
 <h2>🌐 Connect with Me</h2>
 
 <section>
-<a href="www.linkedin.com/in/stephen-landers-051644337"><img src="./images/linkedin.png" width="50" alt=""/></a>
-<a href="mailto:124435384@umail.ucc.ie"><img src="./images/gmail.png" width="50" alt="" /></a>
+<a href="www.linkedin.com/in/stephen-landers-051644337"><img src="./images/linkedin.png" width="100" height="20"/></a>
+<a href="mailto:124435384@umail.ucc.ie"><img src="./images/gmail.png" width="100" height="20" /></a>
 </section>
 
 <h1>🛠️ Technologies & Tools</h1>
 <h2>👨‍💻 Languages
 </h2>
 <section>
-<img src="./images/java.png" width="30"> <img src="./images/python.png" width="30">
+<img src="./images/java.png" width="40"> <img src="./images/python.png" width="40">
 </section>
 <h2>🌐 Web</h2>
 <section>
-<img src="./images/html.png" width="30"> <img src="./images/css.png" width="30"> <img src="./images/flask.png" width="30">
+<img src="./images/html.png" width="40"> <img src="./images/css.png" width="40"> <img src="./images/flask.png" width="40">
 </section>
 <h2>🛢️ Databases</h2>
 <section>
-<img src="./images/sql.png" width="30"> <img src="./images/neo4j.png" width="30"> <img src="./images/mongodb.png" width="30">
+<img src="./images/sql.png" width="40"> <img src="./images/neo4j.png" width="40"> <img src="./images/mongodb.png" width="40">
 </section>
 <!--
 **Slanders23/Slanders23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
