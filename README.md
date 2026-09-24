@@ -6,7 +6,9 @@ I'm a Computer Science student at University College Cork, currently in my third
 I'm interested in software development, cybersecurity, cloud infrastructure, and data systems. I enjoy building projects that combine programming with real-world problems.
 
 🛠️ Technologies & Tools
-Languages
+<h2>Languages</h2>
+<img src="./images/java.png" width="50">
+<img src="./images/python.png" width="50">
 
 <!--
 **Slanders23/Slanders23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
