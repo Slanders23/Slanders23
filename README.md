@@ -27,7 +27,7 @@ I'm interested in software development, cybersecurity, cloud infrastructure, and
 </section>
 <h2>🌐 Web</h2>
 <section>
-<img src="./images/html.png" height="40" width="40"> <img src="./images/css.png"  height="40" width="40"> <img src="./images/flask.png" height="40" width="40">
+<img src="./images/html.png" height="40" width="40"> <img src="./images/css.png"  height="40" width="40"> <img src="./images/flask.png" height="40" width="40">  <img src="./images/js.png" height="40" width="40">
 </section>
 <h2>🛢️ Databases</h2>
 <section>
